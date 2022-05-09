@@ -1,6 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Juan Manuel",
+	"author": {
+		"name": "Juan Manuel"
+	},
+	"description": "FreeCodeCamp BackEnd Development And APIs Certification",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
